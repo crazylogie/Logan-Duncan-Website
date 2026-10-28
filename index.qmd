@@ -1,18 +1,27 @@
 ---
-title: "About Me"
+title: "Logan Duncan"
 about:
   id: me
   template: broadside
-  image: img/HKoTi86VCh6w8ttHS5kL5W-1200-80.jpg
+  image: img/me2.heic
 ---
 
 :::{#me}
 
+
 ## Goals
 
+My aim is to complete my masters studies and eventually become a teacher in the agricultural sciences!
+
 ## Education
+B.S. In Sustainable Agriculture and Food Systems Dec. 2022. 
+Currently in Agricultural Sciences Master's Program at UNH.
+
 
 ## Experience
+
+NHAES Kiwiberry Vineyard Manager and Research Assistant at Woodman Farm, 2023-Present.
+
 
 :::
 
