@@ -3,7 +3,7 @@ title: "Logan Duncan"
 about:
   id: me
   template: broadside
-  image: img/me2.heic
+  image: img/ye2.jpg
 ---
 
 :::{#me}
